@@ -15,3 +15,5 @@ This is where i documented my first project while learning Data analysis with sk
   SELECT * FROM TABLE 1
   WHERE CONDITION = TRUE
   ```
+
+[Pivot Tables File (1).xlsx](https://github.com/user-attachments/files/17334786/Pivot.Tables.File.1.xlsx)
