@@ -10,3 +10,8 @@ This is where i documented my first project while learning Data analysis with sk
   2. it help us to pivot
 - power point
 - google sheet
+
+  ``` PYTHON
+  SELECT * FROM TABLE 1
+  WHERE CONDITION = TRUE
+  ```
